@@ -31,16 +31,5 @@ pnpm install
 ```
 #Estructura del proyecto
 
-src/
-│
-├── assets/        # Recursos estáticos
-├── components/    # Componentes reutilizables
-├── context/       # Estado global
-├── hooks/         # Custom hooks
-├── layouts/       # Layouts principales
-├── pages/         # Pantallas de la aplicación
-├── routes/        # Configuración de rutas
-├── styles/        # Estilos globales
-│
-├── App.tsx        # Componente raíz
-└── main.tsx       # Punto de entrada
+<img width="350" height="201" alt="image" src="https://github.com/user-attachments/assets/92cbe632-0633-4d19-8deb-5c1f6947d874" />
+
